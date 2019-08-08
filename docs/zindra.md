@@ -6,7 +6,7 @@
   </p>
 
 
-# འཛིན་གྲྭ་བཅུ་དྲུག་དང་སྦྱོང་བྱ་ཁག་གི་སྒེའུ་ཁུང་།
+# འཛིན་གྲྭ་བཅུ་དྲུག་དང་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 
 <iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018001&origin=website.com" width="100%" height="100%"></iframe>
