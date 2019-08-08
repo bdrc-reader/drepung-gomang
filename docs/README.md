@@ -7,8 +7,7 @@
   </p>
 
   
-  # བཀྲ་ཤིས་སྒོ་མང་གྲྭ་ཚང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་མདུན་ངོས། 
-
+ # བཀྲ་ཤིས་སྒོ་མང་གྲྭ་ཚང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་མདུན་ངོས། 
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/drepung-gomang/master/docs/img/go.png)
 
