@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://bdrc-reader.github.io/drepung-gomang/">མདུན་ངོས།</a> •
   <a href="https://bdrc-reader.github.io/drepung-gomang/zindra">འཛིན་གྲྭ་བཅུ་དྲུག་དང་སྦྱོང་བྱ་ཁག</a> •
-  <a href="https://bdrc-reader.github.io/drepung-gomang/zindra">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> •
+  <a href="https://bdrc-reader.github.io/drepung-gomang/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> •
     <span>སྒོ་མང་གྲྭ་ཚང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</span>
   </p>
 
 
-# སྒོ་མང་གྲྭ་ཚང་དང་འབྲེལ་བའི་གསུམ་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+# སྒོ་མང་གྲྭ་ཚང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 <iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018002&origin=website.com" width="100%" height="100%"></iframe>
 
