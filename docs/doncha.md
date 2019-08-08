@@ -10,7 +10,7 @@
 <iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018003&origin=website.com" width="100%" height="100%"></iframe>
 
 
-# རྒྱུན་འདོན་དང་སྒྲུབ་མཆོད་་ཁག
+# རྒྱུན་འདོན་དང་སྒྲུབ་མཆོད་ཁག
 
 དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ལྷ་བཅུ་གསུམ་མ།
 
