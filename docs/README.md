@@ -1,3 +1,9 @@
+
+<p align="center">
+  <span>མདུན་ངོས།</span> •
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/zendra">འཛིན་གྲྭ་བཅུ་དྲུག་དང་སྦྱོང་བྱ་ཁག</a> •
+  <a href="https://bdrc-reader.github.io/mugey-gonpa/drubchod">དགོན་པའི་སྒྲུབ་མཆོད་ཀྱི་སྐོར།</a></p>
+
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/drepung-gomang/master/docs/img/go.png)
