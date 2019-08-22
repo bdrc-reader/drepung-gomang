@@ -8,7 +8,7 @@
 
 # སྒོ་མང་གྲྭ་ཚང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018002&origin=website.com" width="100%" height="800"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018002&origin=website.com" width="100%" height="800"></iframe>
 
 <br>
 <br>
