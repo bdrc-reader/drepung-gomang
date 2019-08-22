@@ -3,8 +3,8 @@
   <span>མདུན་ངོས།</span> •
   <a href="https://bdrc-reader.github.io/drepung-gomang/zindra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> •
   <a href="https://bdrc-reader.github.io/drepung-gomang/doncha">འདོན་ཆའི་སྐོར།</a> •
-  <a href="https://bdrc-reader.github.io/drepung-gomang/sungbum">གསུང་འབུམ་ཁག</a>
-  </p>
+  <a href="https://bdrc-reader.github.io/drepung-gomang/sungbum">གསུང་འབུམ་ཁག</a> •
+  <a href="https://bdrc-reader.github.io/drepung-gomang/chojung">ཆོས་འབྱུང་།</a></p>
   
 # བཀྲ་ཤིས་སྒོ་མང་གྲྭ་ཚང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་མདུན་ངོས། 
 

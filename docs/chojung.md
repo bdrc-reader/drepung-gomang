@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://bdrc-reader.github.io/drepung-gomang/">མདུན་ངོས།</a> •
-  <span>འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</span> • 
+  <a href="https://bdrc-reader.github.io/drepung-gomang/chojung">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • 
   <a href="https://bdrc-reader.github.io/drepung-gomang/doncha">འདོན་ཆའི་སྐོར།</a> •
-  <a href="https://bdrc-reader.github.io/drepung-gomang/sungbum">གསུང་འབུམ་ཁག</a> •
-  <a href="https://bdrc-reader.github.io/drepung-gomang/chojung">ཆོས་འབྱུང་།</a></p>
+  <a href="https://bdrc-reader.github.io/drepung-gomang/sungbum">གསུང་འབུམ་ཁག</a> • <span>ཆོས་འབྱུང་།</span> • 
+  </p>
 
 
 # འཛིན་གྲྭ་་དང་སྦྱོང་བྱ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 
-<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018001&origin=website.com" width="100%" height="600"></iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0018001&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
 <br>
