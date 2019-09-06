@@ -6,7 +6,7 @@
   <a href="https://bdrc-reader.github.io/drepung-gomang/sungbum">གསུང་འབུམ་ཁག</a> •
   <a href="https://bdrc-reader.github.io/drepung-gomang/chojung">ཆོས་འབྱུང་།</a></p>
   
-# བཀྲ་ཤིས་སྒོ་མང་གྲྭ་ཚང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་གི་མདུན་ངོས། 
+# དཔེ་ཀློག་སྒེའུ་ཁུང་གི་མདུན་ངོས། 
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/drepung-gomang/master/docs/img/go.png)
 
